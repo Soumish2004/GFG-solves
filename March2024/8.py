@@ -1,4 +1,4 @@
-#https://www.geeksforgeeks.org/problems/check-frequencies4211/1
+#`https://www.geeksforgeeks.org/problems/check-frequencies4211/1`
 
 class Solution:
     def sameFreq(self, s):
