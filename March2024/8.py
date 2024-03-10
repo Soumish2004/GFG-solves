@@ -1,5 +1,5 @@
 #`https://www.geeksforgeeks.org/problems/check-frequencies4211/1`
-
+#flamesaver
 class Solution:
     def sameFreq(self, s):
         # code here
